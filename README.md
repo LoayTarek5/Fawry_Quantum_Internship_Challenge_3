@@ -258,51 +258,14 @@ Exception
 - **Time Complexity**: O(n) operations for cart processing
 - **Scalability**: Designed for extension with minimal changes
 
-## Future Enhancements
-
-### Planned Features
-- Database integration for persistent storage
-- REST API endpoints for web integration
-- Advanced shipping options (express, overnight)
-- Discount and coupon system
-- Order history and tracking
-- Multi-currency support
-
-### Technical Improvements
-- Unit test framework integration (JUnit)
-- Logging framework (SLF4J/Logback)
-- Configuration management (Properties files)
-- Documentation generation (Javadoc)
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Guidelines
+## Development Guidelines
 - Follow Java naming conventions
 - Add comprehensive error handling
 - Include appropriate unit tests
 - Update documentation for new features
 - Maintain backward compatibility
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
-
-- **Developer**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Project Link**: [https://github.com/yourusername/ecommerce-system](https://github.com/yourusername/ecommerce-system)
-
-## Acknowledgments
-
-- Java documentation and best practices
-- Object-oriented design principles
-- E-commerce industry standards
-- Open source community contributions
+- **Developer**: Loay Tarek Mostafa Elnomani
+- **Email**: loaytareq44@gmail.com
+- **GitHub**: [LoayTarek5](https://github.com/LoayTarek5/)
