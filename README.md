@@ -20,6 +20,9 @@ A comprehensive Java-based e-commerce system demonstrating object-oriented progr
 
 This e-commerce system simulates a complete online shopping experience with features including product management, shopping cart functionality, customer balance management, shipping calculations, and comprehensive error handling.
 
+![v1 1](https://github.com/user-attachments/assets/02b05f17-aa6a-4684-8706-84721b24d5d2)
+![v1 2](https://github.com/user-attachments/assets/fb3016fc-58bc-4077-a874-30d43f084384)
+
 ## Features
 
 ### Core Functionality
